@@ -1,2 +1,2 @@
-# obligatorisk arbeidskrav PY1010
+# obligatorisk arbeidskrav 1 - PY1010 USN
 ### innlevering 08.11.2024
